@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="c">C</string>
+    <string name="off">OFF</string>
+    <string name="PERCENT">%</string>
+    <string name="DIV">÷</string>
+    <string name="SEVEN">7</string>
+</resources>
